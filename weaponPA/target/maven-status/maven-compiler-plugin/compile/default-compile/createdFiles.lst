@@ -1,0 +1,9 @@
+weapon/Main.class
+weapon/throwableWeapons/ThrowableWeapon.class
+weapon/firearms/MP5.class
+weapon/firearms/Revolver.class
+weapon/Weapon.class
+weapon/coldsteel/Coldsteel.class
+weapon/coldsteel/Knife.class
+weapon/firearms/Firearm.class
+weapon/throwableWeapons/Granade.class
